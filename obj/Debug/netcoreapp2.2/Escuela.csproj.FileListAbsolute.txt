@@ -1,0 +1,11 @@
+E:\Educación\C#\platzi C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.deps.json
+E:\Educación\C#\platzi C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.runtimeconfig.json
+E:\Educación\C#\platzi C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.runtimeconfig.dev.json
+E:\Educación\C#\platzi C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.dll
+E:\Educación\C#\platzi C#\Escuela\bin\Debug\netcoreapp2.2\Escuela.pdb
+E:\Educación\C#\platzi C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.csprojAssemblyReference.cache
+E:\Educación\C#\platzi C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.csproj.CoreCompileInputs.cache
+E:\Educación\C#\platzi C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.AssemblyInfoInputs.cache
+E:\Educación\C#\platzi C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.AssemblyInfo.cs
+E:\Educación\C#\platzi C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.dll
+E:\Educación\C#\platzi C#\Escuela\obj\Debug\netcoreapp2.2\Escuela.pdb
