@@ -15,18 +15,14 @@ namespace Principal
             // var cursos = new Curso() { Grado = "101" };
             // cursos = new Curso[3]
             Curso[] cursos = {
-                new Curso() { Grado = "101"},
-                new Curso() { Grado = "201"},
-                new Curso() { Grado = "301"},
-                new Curso() { Grado = "401"},
-                new Curso() { Grado = "501"},
-                new Curso() { Grado = "601"}
+                new Curso() { Grado = "101", jornada = TipoJornada.tarde.ToString() },
+                new Curso() { Grado = "201", jornada = TipoJornada.noche.ToString() }
             };
 
             WriteLine(escuela);
             foreach (Curso curso in cursos)
             {
-                WriteLine(curso.Grado);
+                WriteLine("Curso: " + curso.Grado+" - ID: "+curso.uniqueID + " - Jornada: " + curso.jornada);
             }
             
         }
